@@ -1,0 +1,19 @@
+# macOS and Office temporary files
+.DS_Store
+~$*
+
+# Never publish student grades or rosters
+*.xlsx
+*.xls
+*Grade*
+*grade*
+*roster*
+
+# Videos are hosted in Teams and D2L, not here
+*.mp4
+*.mov
+
+# Homework solutions stay private
+*solution*
+*Solution*
+*key*
