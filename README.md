@@ -22,5 +22,5 @@ Lecture videos, assignments, and submissions are in D2L.
 ## License
 
 Original course materials in this repository are licensed under
-[CC BY-NC 4.0](LICENSE.md). Third-party readings are linked to their original sources
+[CC BY-NC-SA 4.0](LICENSE.md). Third-party readings are linked to their original sources
 and remain under their own licenses.

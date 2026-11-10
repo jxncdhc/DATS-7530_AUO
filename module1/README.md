@@ -28,20 +28,16 @@ By the end of this module, you will be able to:
 
 The lecture videos are in D2L.
 
+Slides 1.2–1.4 are adapted from the
+[Johns Hopkins Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
+*R Programming* course by Roger D. Peng (CC BY-NC-SA).
+
 ## Readings
 
-From *R Programming for Data Science* by Roger D. Peng (free online edition):
+Read these two chapters of *R Programming for Data Science* by Roger D. Peng, which is free to read online:
 
-- [History and Overview of R](https://bookdown.org/rdpeng/rprogdatascience/history-and-overview-of-r.html) (optional)
 - [R Nuts and Bolts](https://bookdown.org/rdpeng/rprogdatascience/r-nuts-and-bolts.html)
 - [Getting Data In and Out of R](https://bookdown.org/rdpeng/rprogdatascience/getting-data-in-and-out-of-r.html)
-- [Using the readr Package](https://bookdown.org/rdpeng/rprogdatascience/using-the-readr-package.html)
-- [Using Textual and Binary Formats for Storing Data](https://bookdown.org/rdpeng/rprogdatascience/using-textual-and-binary-formats-for-storing-data.html)
-- [Interfaces to the Outside World](https://bookdown.org/rdpeng/rprogdatascience/interfaces-to-the-outside-world.html)
-
-Installation guide, from *Hands-On Programming with R* by Garrett Grolemund (free online edition):
-
-- [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
 
 ## Lab 1
 
