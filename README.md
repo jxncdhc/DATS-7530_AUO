@@ -16,8 +16,8 @@ Lecture videos, assignments, and submissions are in D2L.
 | Module 4 | Introduction to Linux and the Shell | 7–8 |
 | Module 5 | Linux File System, Permissions, and Text Processing | 9–10 |
 | Module 6 | Bash Scripting and Running R from the Command Line | 11–12 |
-| Module 7 | SQL Fundamentals | 13 |
-| Module 8 | Using SQL with R | 14 |
+| Module 7 | SQL Fundamentals | 13–14 |
+| Module 8 | Using SQL with R | 15–16 |
 
 ## License
 
